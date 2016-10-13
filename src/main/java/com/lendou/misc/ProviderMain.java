@@ -8,6 +8,8 @@ import java.security.Provider;
  * 通用的主函数
  *
  * 所有 Provider 的操作也可以用 Security 类来实现
+ *
+ * https://docs.oracle.com/javase/8/docs/technotes/guides/security/SunProviders.html
  */
 public class ProviderMain {
 
